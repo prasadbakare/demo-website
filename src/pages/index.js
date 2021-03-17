@@ -164,7 +164,7 @@ export default (() => {
 				lg-text-align="center"
 				lg-font="--headline2"
 			>
-				Make a Difference.
+				Make a Better Difference.
 			</Text>
 			<Text
 				font="--lead"
