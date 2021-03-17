@@ -163,8 +163,9 @@ export default (() => {
 				sm-width="80%"
 				lg-text-align="center"
 				lg-font="--headline2"
+				xl-text-align="center"
 			>
-				Make a Better Difference.
+				Make a Better Design Difference.
 			</Text>
 			<Text
 				font="--lead"
